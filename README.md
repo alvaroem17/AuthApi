@@ -50,7 +50,7 @@ Ejemplos
 login
 
 JSON
-{
+`{
     "email":"raul@raul.com",
     "username":"raulv",
     "name":{
@@ -58,12 +58,12 @@ JSON
         "lastname": "Villarraso"
     },
     "password":"12345_Abc"
-}
+}`
 Usa el código con precaución.
 signup
 
 JSON
-{
+`{
   "email": "usuario@ejemplo.com",
   "password": "contraseña"
-}
+}`
