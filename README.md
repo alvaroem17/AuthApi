@@ -21,15 +21,15 @@ BaseUrl:
 - Inicia sesión en la API.
 - Body:
 - email: Correo electrónico del usuario.
-- - password: Contraseña del usuario.
+  - password: Contraseña del usuario.
 
 #### signup
 
 - Registra un nuevo usuario en la API.
 - Body:
-- - name: Nombre del usuario.
-- - email: Correo electrónico del usuario.
-- - password: Contraseña del usuario.
+  - name: Nombre del usuario.
+  - email: Correo electrónico del usuario.
+  - password: Contraseña del usuario.
 
 ### Endpoints GET
 
@@ -61,7 +61,7 @@ login
     "password":"12345_Abc"
 }
 ```
-Usa el código con precaución.
+
 signup
 
 
