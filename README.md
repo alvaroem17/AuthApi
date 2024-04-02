@@ -52,11 +52,11 @@ login
 
 ```
 {
-    "email":"raul@raul.com",
-    "username":"raulv",
+    "email":"paco@paco.com",
+    "username":"paco86",
     "name":{
-        "firstname":"Raul",
-        "lastname": "Villarraso"
+        "firstname":"Paco",
+        "lastname": "Martinez"
     },
     "password":"12345_Abc"
 }
@@ -67,7 +67,7 @@ signup
 
 ``` 
 {
-  "email": "usuario@ejemplo.com",
-  "password": "contraseña"
+  "email": "paco@paco.com",
+  "password": "12345_Abc"
 }
 ```
