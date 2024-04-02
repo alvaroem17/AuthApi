@@ -49,7 +49,8 @@ En los endpoints POST, el cuerpo de la solicitud debe ser un objeto JSON con las
 Ejemplos
 login
 
-```{
+```
+{
     "email":"raul@raul.com",
     "username":"raulv",
     "name":{
