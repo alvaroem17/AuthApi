@@ -39,6 +39,7 @@ BaseUrl:
 
 #### one
 
+- Solo usuario logueado (usuario que devuelve)
 - Obtiene un solo recurso.
 - Authorization: token;
 
