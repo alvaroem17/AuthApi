@@ -49,8 +49,7 @@ En los endpoints POST, el cuerpo de la solicitud debe ser un objeto JSON con las
 Ejemplos
 login
 
-JSON
-`{
+```{
     "email":"raul@raul.com",
     "username":"raulv",
     "name":{
@@ -58,7 +57,8 @@ JSON
         "lastname": "Villarraso"
     },
     "password":"12345_Abc"
-}`
+}
+```
 Usa el código con precaución.
 signup
 
@@ -67,4 +67,5 @@ signup
 {
   "email": "usuario@ejemplo.com",
   "password": "contraseña"
-}```
+}
+```
