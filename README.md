@@ -63,8 +63,8 @@ Usa el código con precaución.
 signup
 
 
-`JSON 
+``` 
 {
   "email": "usuario@ejemplo.com",
   "password": "contraseña"
-}`
+}```
