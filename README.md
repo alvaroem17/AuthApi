@@ -62,8 +62,9 @@ JSON
 Usa el código con precaución.
 signup
 
-JSON
-`{
+
+`JSON 
+{
   "email": "usuario@ejemplo.com",
   "password": "contraseña"
 }`
